@@ -5,7 +5,7 @@ backpropagation into digestable chunks.
 
 ## Course Outline
 
-1. Week 1: Introduction to Deep Learning
+1. Week 1: Introduction to Deep Learning (No coding exercise)
 2. Week 2: Neural Networks Basic
 3. Week 3: Shallow Neural Networkss
 4. Week 4: Deep Neural Networks
